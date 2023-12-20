@@ -1,0 +1,15 @@
+G:\Code\c-sharp\DevSkill\Batch-08\Examples\01_BasicSyntax\bin\Debug\net8.0\01_BasicSyntax.exe
+G:\Code\c-sharp\DevSkill\Batch-08\Examples\01_BasicSyntax\bin\Debug\net8.0\01_BasicSyntax.deps.json
+G:\Code\c-sharp\DevSkill\Batch-08\Examples\01_BasicSyntax\bin\Debug\net8.0\01_BasicSyntax.runtimeconfig.json
+G:\Code\c-sharp\DevSkill\Batch-08\Examples\01_BasicSyntax\bin\Debug\net8.0\01_BasicSyntax.dll
+G:\Code\c-sharp\DevSkill\Batch-08\Examples\01_BasicSyntax\bin\Debug\net8.0\01_BasicSyntax.pdb
+G:\Code\c-sharp\DevSkill\Batch-08\Examples\01_BasicSyntax\obj\Debug\net8.0\01_BasicSyntax.GeneratedMSBuildEditorConfig.editorconfig
+G:\Code\c-sharp\DevSkill\Batch-08\Examples\01_BasicSyntax\obj\Debug\net8.0\01_BasicSyntax.AssemblyInfoInputs.cache
+G:\Code\c-sharp\DevSkill\Batch-08\Examples\01_BasicSyntax\obj\Debug\net8.0\01_BasicSyntax.AssemblyInfo.cs
+G:\Code\c-sharp\DevSkill\Batch-08\Examples\01_BasicSyntax\obj\Debug\net8.0\01_BasicSyntax.csproj.CoreCompileInputs.cache
+G:\Code\c-sharp\DevSkill\Batch-08\Examples\01_BasicSyntax\obj\Debug\net8.0\01_BasicSyntax.sourcelink.json
+G:\Code\c-sharp\DevSkill\Batch-08\Examples\01_BasicSyntax\obj\Debug\net8.0\01_BasicSyntax.dll
+G:\Code\c-sharp\DevSkill\Batch-08\Examples\01_BasicSyntax\obj\Debug\net8.0\refint\01_BasicSyntax.dll
+G:\Code\c-sharp\DevSkill\Batch-08\Examples\01_BasicSyntax\obj\Debug\net8.0\01_BasicSyntax.pdb
+G:\Code\c-sharp\DevSkill\Batch-08\Examples\01_BasicSyntax\obj\Debug\net8.0\01_BasicSyntax.genruntimeconfig.cache
+G:\Code\c-sharp\DevSkill\Batch-08\Examples\01_BasicSyntax\obj\Debug\net8.0\ref\01_BasicSyntax.dll
